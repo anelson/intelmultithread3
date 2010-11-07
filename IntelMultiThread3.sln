@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntelMultiThread3", "IntelMultiThread3\IntelMultiThread3.csproj", "{D55EDF8D-CFAE-44C6-B088-FB7D6AE1CBE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntelMultiThread3.Tests", "IntelMultiThread3.Tests\IntelMultiThread3.Tests.csproj", "{8CC12304-E30F-45E4-8A09-D3E1BCFA3135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D55EDF8D-CFAE-44C6-B088-FB7D6AE1CBE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55EDF8D-CFAE-44C6-B088-FB7D6AE1CBE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D55EDF8D-CFAE-44C6-B088-FB7D6AE1CBE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55EDF8D-CFAE-44C6-B088-FB7D6AE1CBE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CC12304-E30F-45E4-8A09-D3E1BCFA3135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC12304-E30F-45E4-8A09-D3E1BCFA3135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC12304-E30F-45E4-8A09-D3E1BCFA3135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC12304-E30F-45E4-8A09-D3E1BCFA3135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
